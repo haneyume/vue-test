@@ -5,5 +5,7 @@
   "workspaces": [
     "vue-vite"
   ],
-  "scripts": {}
+  "scripts": {
+    "dev": "cd vue-vite && yarn dev"
+  }
 }
